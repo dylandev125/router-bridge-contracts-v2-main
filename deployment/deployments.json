@@ -1,0 +1,231 @@
+{
+    "56": {
+        "VoterUpgradeable": {
+            "proxy": "0x2D7D5f298067E81e8827eB686428881f4c988dC1",
+            "implementation": [
+                "0xA77c7f3BA954F4a420D8C51E33de23B36dAaBBAC"
+            ],
+            "creationTime": 1642859782274,
+            "updatedTime": [
+                1642859782274
+            ]
+        },
+        "BridgeUpgradeable": {
+            "proxy": "0xf18aCC02628009231d7BAAF9a7a24C0860Dda6cb",
+            "implementation": [
+                "0x606285b3fE057FeF83b23A56132b37D66F8740A2",
+                "0x606285b3fE057FeF83b23A56132b37D66F8740A2",
+                "0xf0E7486A64545baC8dEd311448BDc64e2DC8544a",
+                "0xf0E7486A64545baC8dEd311448BDc64e2DC8544a",
+                "0xf0E7486A64545baC8dEd311448BDc64e2DC8544a",
+                "0xA3301b6B38eCd00D16d6FA225702b5a000F937e7",
+                "0xb5eB0528C6890f02d579C5cF8CaF3d41cAa7190f",
+                "0xb5eB0528C6890f02d579C5cF8CaF3d41cAa7190f",
+                "0xb5eB0528C6890f02d579C5cF8CaF3d41cAa7190f",
+                "0x2397787A17E6044AE7bEB2Fbc8865B63532047ae",
+                "0x1046D4D30a357c61e674038d8344Dd70c0327896",
+                "0xe7de888fc7d81fe69a861b67c72353161accd686"
+            ],
+            "creationTime": 1642859810126,
+            "updatedTime": [
+                1642859810126,
+                1642937986607,
+                1642938070240,
+                1642939781423,
+                1643095833979,
+                1643095890728,
+                1643142513954,
+                1643142549551,
+                1643216721335,
+                1643216753952,
+                1643273969277,
+                1649345508163
+            ]
+        },
+        "ERC20HandlerUpgradeable": {
+            "proxy": "0x00b8F3E184e5DaAadB8fdA995bbabBCC1b35Ae93",
+            "implementation": [
+                "0xBc565B8988f6d3963C35ca062d00B8bD5Db8A68A",
+                "0x16d5feE4d6e50E36391127dAdF2C0F74054962Aa",
+                "0x16d5feE4d6e50E36391127dAdF2C0F74054962Aa",
+                "0x16d5feE4d6e50E36391127dAdF2C0F74054962Aa",
+                "0x16d5feE4d6e50E36391127dAdF2C0F74054962Aa",
+                "0xA7Dcd8569A18299F19dD8A3bb21725A4c61E9F70",
+                "0xA7Dcd8569A18299F19dD8A3bb21725A4c61E9F70",
+                "0xBd05A14DF87089AA8f1B10782f03D62e49400a40",
+                "0xBd05A14DF87089AA8f1B10782f03D62e49400a40",
+                "0xbaD3C121641159242Ce9f30984f490E4CC74Bb1c",
+                "0xbaD3C121641159242Ce9f30984f490E4CC74Bb1c",
+                "0x67ce7f7Bc81a074c1A425Eb5c7D175F193438EDC",
+                "0x11f7124e71FA927457D7c3dcbF6eC8B058682890"
+            ],
+            "creationTime": 1642859865470,
+            "updatedTime": [
+                1642859865470,
+                1642939127678,
+                1643016140059,
+                1643016207149,
+                1643016370819,
+                1643016503131,
+                1643043210623,
+                1643043291961,
+                1643196721714,
+                1643196761562,
+                1643216874660,
+                1643216895934,
+                1643244321228
+            ]
+        },
+        "HandlerReserveUpgradeable": {
+            "proxy": "0x6e14f48576265272B6CAA3A7cC500a26050Be64E",
+            "implementation": [
+                "0x2741986f69Be3D3c92b23DC2f201517939678ba2",
+                "0x2d5e235EdE4A6c42a48770AAE2d78572fe6aD6FE",
+                "0x2d5e235EdE4A6c42a48770AAE2d78572fe6aD6FE",
+                "0xF23f98fFfa44905991ea74454B1CA8251f6721A0",
+                "0xF23f98fFfa44905991ea74454B1CA8251f6721A0",
+                "0x9cba577c794CF3dC0B9F282583Bc82a82793ceF9",
+                "0x9cba577c794CF3dC0B9F282583Bc82a82793ceF9",
+                "0xF23f98fFfa44905991ea74454B1CA8251f6721A0",
+                "0xF23f98fFfa44905991ea74454B1CA8251f6721A0",
+                "0xff6683bfB3AE42db6A576F1b2031ed4ddd85632f",
+                "0xff6683bfB3AE42db6A576F1b2031ed4ddd85632f",
+                "0x0aa8da2115a2A4D985BCC0f89d332c456796CBA0"
+            ],
+            "creationTime": 1642859894118,
+            "updatedTime": [
+                1642859894118,
+                1642887614244,
+                1642937238915,
+                1642937412854,
+                1643069363027,
+                1643069407551,
+                1643071067072,
+                1643071095283,
+                1643100623029,
+                1643100645371,
+                1643376561640,
+                1643376600022
+            ]
+        },
+        "FeeManagerUpgradeable": {
+            "proxy": "0xA63f3147C6bAE70A53a30e30421b1a992e60Aac2",
+            "implementation": [
+                "0x8643548aa389215575cD3639C681826B8CC0d29E"
+            ],
+            "creationTime": 1642859925937,
+            "updatedTime": [
+                1642859925937
+            ]
+        },
+        "RouterERC20UpgradableRoute": {
+            "proxy": "0xfD2700c51812753215754De9EC51Cdd42Bf725B9",
+            "implementation": [
+                "0x540627810B3518e293F9Ef5Ba02c1f11A5f19AC2"
+            ],
+            "creationTime": 1642859925937,
+            "updatedTime": [
+                1642859925937
+            ]
+        },
+        "RouterERC20UpgradableDFYN": {
+            "proxy": "0x9c08941465EB16982Fa8385A7BbD74F7972C5a27",
+            "implementation": [
+                "0x540627810B3518e293F9Ef5Ba02c1f11A5f19AC2"
+            ],
+            "creationTime": 1642859925937,
+            "updatedTime": [
+                1642859925937
+            ]
+        }
+    },
+    "137": {
+        "VoterUpgradeable": {
+            "proxy": "0x2D7D5f298067E81e8827eB686428881f4c988dC1",
+            "implementation": [
+                "0xA77c7f3BA954F4a420D8C51E33de23B36dAaBBAC"
+            ],
+            "creationTime": 1642858628138,
+            "updatedTime": [
+                1642858628138
+            ]
+        },
+        "BridgeUpgradeable": {
+            "proxy": "0xf18aCC02628009231d7BAAF9a7a24C0860Dda6cb",
+            "implementation": [
+                "0x606285b3fE057FeF83b23A56132b37D66F8740A2",
+                "0x606285b3fE057FeF83b23A56132b37D66F8740A2",
+                "0x4eC8C3C49Ad4633941B59C843F5e258648AA87fa",
+                "0x4eC8C3C49Ad4633941B59C843F5e258648AA87fa",
+                "0x4eC8C3C49Ad4633941B59C843F5e258648AA87fa",
+                "0x4eC8C3C49Ad4633941B59C843F5e258648AA87fa",
+                "0xfb94aeFaaD9cb27C95FeB8b284bFa73621539A2F"
+            ],
+            "creationTime": 1642858652778,
+            "updatedTime": [
+                1642858652778,
+                1642937807580,
+                1642937885360,
+                1642939673151,
+                1642939724844,
+                1643095631442,
+                1643095679906
+            ]
+        },
+        "ERC20HandlerUpgradeable": {
+            "proxy": "0x00b8F3E184e5DaAadB8fdA995bbabBCC1b35Ae93",
+            "implementation": [
+                "0xBc565B8988f6d3963C35ca062d00B8bD5Db8A68A",
+                "0xBc565B8988f6d3963C35ca062d00B8bD5Db8A68A",
+                "0xE57b23b1D01B448F6C0FD09C3c6d21323766309d",
+                "0x2d20237561E30729BbD623E9b8e9293bb8a78746",
+                "0x2d20237561E30729BbD623E9b8e9293bb8a78746",
+                "0x32FFDA127a17591Cb8Daf243ce1f90762B26e714"
+            ],
+            "creationTime": 1642858709720,
+            "updatedTime": [
+                1642858709720,
+                1642939385081,
+                1642939454951,
+                1643017005734,
+                1643043337313,
+                1643043359138
+            ]
+        },
+        "HandlerReserveUpgradeable": {
+            "proxy": "0x6e14f48576265272B6CAA3A7cC500a26050Be64E",
+            "implementation": [
+                "0x2741986f69Be3D3c92b23DC2f201517939678ba2",
+                "0xD5D5e5d5E2A5c98f603f37A2508c9574e0D646D4",
+                "0xD5D5e5d5E2A5c98f603f37A2508c9574e0D646D4",
+                "0x2B490DA21a1dB92C922Ae6F47341040d34E9Cd16",
+                "0x2B490DA21a1dB92C922Ae6F47341040d34E9Cd16",
+                "0x4C63697923179c48bF0c1E42719D903018fd4C86",
+                "0x4C63697923179c48bF0c1E42719D903018fd4C86",
+                "0x2B490DA21a1dB92C922Ae6F47341040d34E9Cd16"
+            ],
+            "creationTime": 1642858729039,
+            "updatedTime": [
+                1642858729039,
+                1642887051240,
+                1642937491858,
+                1642937684457,
+                1643069567090,
+                1643069590752,
+                1643070992114,
+                1643071009225
+            ]
+        },
+        "FeeManagerUpgradeable": {
+            "proxy": "0xA63f3147C6bAE70A53a30e30421b1a992e60Aac2",
+            "implementation": [
+                "0x8643548aa389215575cD3639C681826B8CC0d29E"
+            ],
+            "creationTime": 1642858746182,
+            "updatedTime": [
+                1642858746182
+            ]
+        }
+    },
+    "80001": {}
+}

@@ -1,0 +1,116 @@
+{
+    "137" : [
+        {
+            "name" : "USDT",
+            "address" : "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "USDC",
+            "address" : "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "DAI",
+            "address" : "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "ROUTE",
+            "address" : "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "DFYN",
+            "address" : "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "MATIC",
+            "address" : "0x4c28f48448720e9000907BC2611F73022fdcE1fA",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "WMATIC",
+            "address" : "0x4c28f48448720e9000907BC2611F73022fdcE1fA",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "RUSDC",
+            "address" : "0x510d0372F55A1687CE73e9826d33d7f3E43D8492",
+            "destid" : "2",
+            "decimal" : "18"
+        },
+        {
+            "name" : "WBNB",
+            "address" : "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
+            "destid" : "2",
+            "decimal" : "18"
+        }
+    ],
+    "56": [
+        {
+            "name" : "USDT",
+            "address" : "0x55d398326f99059fF775485246999027B3197955",
+            "destid" : "1",
+            "decimal" : "6"
+        },
+        {
+            "name" : "USDC",
+            "address" : "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "destid" : "1",
+            "decimal" : "6"
+        },
+        {
+            "name" : "DAI",
+            "address" : "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+            "destid" : "1",
+            "decimal" : "18"
+        },
+        {
+            "name" : "BNB",
+            "address" : "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "destid" : "1",
+            "decimal" : "18"
+        },
+        {
+            "name" : "WBNB",
+            "address" : "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "destid" : "1",
+            "decimal" : "18"
+        },
+        {
+            "name" : "ROUTE",
+            "address" : "0xfD2700c51812753215754De9EC51Cdd42Bf725B9",
+            "destid" : "1",
+            "decimal" : "18"
+        },
+        {
+            "name" : "DFYN",
+            "address" : "0x9c08941465EB16982Fa8385A7BbD74F7972C5a27",
+            "destid" : "1",
+            "decimal" : "18"
+        },
+        {
+            "name" : "RUSDC",
+            "address" : "0x510d0372F55A1687CE73e9826d33d7f3E43D8492",
+            "destid" : "1",
+            "decimal" : "6"
+        },
+        {
+            "name" : "MATIC",
+            "address" : "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+            "destid" : "1",
+            "decimal" : "18"
+        }
+
+    ]
+
+}
